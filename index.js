@@ -12,3 +12,4 @@ function sayName() {
 sayName();
 
 console.log("Sridhar Sing");
+console.log("Dasharath Sing");
