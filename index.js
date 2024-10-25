@@ -13,3 +13,9 @@ sayName();
 
 console.log("Sridhar Sing");
 console.log("Dasharath Sing");
+
+console.log("this is git and github crash coourse")
+
+function sridhar() {
+    console.log("hii this is sridhar");
+}
